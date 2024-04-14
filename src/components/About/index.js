@@ -14,11 +14,10 @@ function About() {
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Greetings! I'm Lindsey Martin, a 32-year-old residing in the vibrant city of Los Angeles. I hold a distinguished B.A. in Psychology with a specialization in Neuroscience from the esteemed University of San Francisco, where I completed my studies in 2016. Although I originally migrated to San Francisco for my college education, I found the city so captivating that I decided to call it my home even after graduation.
+            Hello! I'm Alicen Bender, a 26-year-old History Teacher in Virginia. I have a Bachelor of Science in History and Social Sciences Education from Illinois State University in Normal, IL.
           </p>
-          <p>However, with the advent of the COVID pandemic, I found myself oscillating between the bustling streets of Los Angeles and the familiar avenues of San Francisco. This transition offered me the wonderful opportunity to reconnect with my family, who resides in Southern California, and to relish their company during these uncertain times.</p>
-          <p>Beyond my professional commitments, I am an ardent advocate of an active lifestyle. I take immense pleasure in embarking on leisurely strolls accompanied by my beloved canines. Additionally, I relish partaking in brief hiking expeditions with my cherished friends. Engaging in physical exercise brings me great joy, and I diligently dedicate time every day to nurture my well-being. My exercise regimen encompasses a diverse array of activities, including pilates, weight training, yoga, and invigorating high-intensity interval training (HIIT) sessions.</p>
-          <p>By embracing an active and balanced lifestyle, I strive to make the most of my time outside of work, enjoying the wonders of both nature and the thriving communities that surround me.</p>
+          <p>I moved from Illinois to Virginia to support my partner in taking care of his ill father. I have loved my time in Virginia and plan to remain here.</p>
+          <p>Aside from my job, I enjoy running, walking, reading, and playing video games. My current favorite book is Fourth Wing, and my current favorite video game is Content Warning.</p>
         </div>
       </div>
     </section>
